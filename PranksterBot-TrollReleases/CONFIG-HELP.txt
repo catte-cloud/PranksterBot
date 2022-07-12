@@ -1,0 +1,12 @@
+Open the config file before reading this
+
+Config Explanation:
+
+{
+    "tolken": "gay sex with the priest", - Bot Token, touch me touch me touch me touch me <3.
+    "prefix": "-", - Prefix, No point in changing this, get cucked.
+    "userID": "YOUR USER ID HERE", - Set to your user pee pee LOL!
+    "disableEveryone": true, --if true, only you can use it, else, everyone can use and smigler it.
+    "SendNSFWLinks": true -- you can't turn it off.
+    "Groomchildren": YESPLEASE! -- you really can't turn it off.
+} 
